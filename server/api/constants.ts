@@ -1,0 +1,1 @@
+export const GAMES_API_BASE_URL: string = "https://www.freetogame.com/api/";
